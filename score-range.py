@@ -2,7 +2,7 @@ print ("Check your grade here!")
 
 score = int(input("please input your exam score!"))
 
-if score <50:
+if score <40:
     print ("your grade is 'D' you need to work harder" )
 elif score >=50 and score <70:
     print("your grade is 'C', Pretty good, but not enough")
